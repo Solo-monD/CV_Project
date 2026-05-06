@@ -11,6 +11,9 @@ Click below to run instantly:
 ## 📌 Overview
 
 This project implements a computer vision pipeline using real-world data, including preprocessing, training, and evaluation.
+There are two notebook files:
+  1. CV_Project_Final.ipynb is used to check the integrity of the entire implementation using synthetic dataset
+  2. CV_Project_Final_With_Real_data.ipynb is the actual implementation of the project using real-world dataset.
 
 ---
 
