@@ -4,7 +4,7 @@
 
 Click below to run instantly:
 
-[![Open In Colab]](https://colab.research.google.com/drive/1nmO8RuaRJSqL4469kPbMrPphZ1Chj4JZ?authuser=1#scrollTo=mNfYyF6vBOka))
+[![Open In Colab]](https://colab.research.google.com/drive/1nmO8RuaRJSqL4469kPbMrPphZ1Chj4JZ?authuser=1#scrollTo=mNfYyF6vBOka)
 
 ---
 
